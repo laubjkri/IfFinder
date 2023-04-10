@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IfFinder", "IfFinder\IfFinder.csproj", "{EA8A39B4-E75D-424B-A2A2-59E5358702ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA8A39B4-E75D-424B-A2A2-59E5358702ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA8A39B4-E75D-424B-A2A2-59E5358702ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA8A39B4-E75D-424B-A2A2-59E5358702ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA8A39B4-E75D-424B-A2A2-59E5358702ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D27694C-AE6D-4ACA-A575-E942B94A0B2A}
+	EndGlobalSection
+EndGlobal
